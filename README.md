@@ -1,6 +1,7 @@
 # Chem 280 - 2025 Periodic Table
 
 This repo contains files for a periodic table website.
+As part of the assigment for Day 1, you will add your own element to the periodic table.
 
 ## Local Development
 To run the website locally, you need to have Ruby and Bundler installed. See the webpages for each for installation instructions.
