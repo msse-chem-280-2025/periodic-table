@@ -11,7 +11,7 @@ To run the website locally, you need to have Ruby and Bundler installed. See the
 Next, clone this repository and navigate into the directory:
 
 ```
-git clone https://github.com/msse-chem-280-2025/periodic-table.git
+git clone git@github.com:msse-chem-280-2025/periodic-table.git
 cd periodic-table
 ```
 
