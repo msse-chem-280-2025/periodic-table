@@ -1,6 +1,6 @@
 ___
 layout: page
-title: ZINC
+title: Zinc
 ___
 
 Symbol: Zn
