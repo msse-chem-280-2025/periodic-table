@@ -3,5 +3,5 @@ layout: page
 title: Phosphorous
 ---
 
-SymbolSymbol : P 
+Symbol : P 
 Atomic Number : 15
