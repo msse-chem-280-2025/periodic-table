@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Strontium
+title: strontium
 ---
 
 Symbol : Sr 
